@@ -1,0 +1,14 @@
+Intel Core i9-10900F CPU, single thread
+
+4dim49: less than a second
+4dim exh sublattice A4star: 22.5 minutes
+4dim exh sublattice D4: 14.5 minutes
+59dimAnstar n=5: 2.5 seconds
+59dimAnstar n=9: 32.5 seconds
+59dimAnstar n=9 with generation of forbidden nodes: 30.5 minutes
+7dimE7star first cell (generation of forbidden nodes): 23 minutes
+7dimE7star the rest: 9.5 seconds
+
+Intel Core i9-10900F CPU, 12 threads
+
+5dim exh sublattice A5star: about 35 days
